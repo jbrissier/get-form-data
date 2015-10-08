@@ -34,6 +34,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/insin/get-form-data.git"
+    "url": "http://github.com/jbrissier/get-form-data.git"
   }
 }
